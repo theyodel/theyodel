@@ -7,7 +7,7 @@ I live in Russia 🇷🇺 and have a good knowledge of Python, JavaScript and Ty
 class yodel:
     """Who am i?"""
     name: str = "Arsenii"
-    age: int = 22
+    age: int = 15
     profession: str = "Student"
     country: str = "Russia"
     hobby: str = "Web Development && Playing guitar"
