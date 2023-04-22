@@ -1,6 +1,6 @@
 # Hi! I'm **yodel** 😁
 
-Hello people, I'm just a beginner web developer! \newline
+Hello people, I'm just a beginner web developer! <br />
 I live in Russia 🇷🇺 and have a good knowledge of Python, JavaScript and TypeScript
 
 ```py
