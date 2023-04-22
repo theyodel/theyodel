@@ -13,7 +13,7 @@ class yodel:
     hobby: str = "Web Development && Playing guitar"
 ```
 
-### Skills ✨
+### ✨ My Skills
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,11 +23,11 @@ class yodel:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
-### Contact with me 🔗
+### 🔗 Contact With Me
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&link=https://discordapp.com/users/1087504544713424926)](https://discordapp.com/users/1087504544713424926)&nbsp;
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&link=https://t.me/theyodel)](https://t.me/theyodel)&nbsp;
 
-# My Stats 🔥
+# 🔥 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=theyodel&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
