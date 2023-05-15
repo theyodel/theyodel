@@ -11,6 +11,8 @@ class yodel:
     profession: str = "Student"
     country: str = "Russia"
     hobby: str = "Web Development && Playing guitar"
+    grade: str = "Junior"
+
 ```
 
 ### ✨ My Skills
