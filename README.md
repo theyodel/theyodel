@@ -10,7 +10,7 @@ class yodel:
     age: int = 15
     profession: str = "Student"
     country: str = "Russia"
-    hobby: str = "Web Development && Playing guitar"
+    hobby: str = "Web Development && Playing bascketball"
     grade: str = "Junior"
 
 ```
