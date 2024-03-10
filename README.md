@@ -35,5 +35,5 @@ class yodel:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=donut)](https://github.com/theyodel)
 
-№ 🥱 Activity
+# 🥱 Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/1087504544713424926)](https://discord.com/users/1087504544713424926)
