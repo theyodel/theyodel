@@ -31,9 +31,9 @@ class yodel:
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram&link=https://t.me/theyodel)](https://t.me/theyodel)&nbsp;
 
 # 🔥 My Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theyodel&show_icons=true&theme=transparent)](https://github.com/theyodel)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theyodel&show_icons=true&theme=aura)](https://github.com/theyodel)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=donut)](https://github.com/theyodel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=donut&show_icons=true&theme=aura)](https://github.com/theyodel)
 
 # 🥱 Discord Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping)](https://discord.com/users/1087504544713424926)
