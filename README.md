@@ -12,17 +12,17 @@ class yodel:
     hobby: str = "Web Development && Gaming"
 ```
 
-### ✨ My Skills
+> ### ✨ My Skills
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a033ff&duration=4000&lines=js,;python,;html-css,;react.js,)](https://git.io/typing-svg)
 
-### 🔗 Socials
- | [telegram](https://theyodel.t.me/) | [youtube](https://www.youtube.com/@theyodel) | 
+> ### 🔗 Socials
 
-# 🔥 My Stats
+
+> ### 🔥 My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theyodel&show_icons=true&theme=aura)](https://github.com/theyodel)
 
-# 🥱 Discord Activity
+> ### 🥱 Discord Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping)](https://discord.com/users/1087504544713424926)
 
-<p>👀&nbsp;Visitors</p>
+> <p>👀&nbsp;Visitors</p>
 <img align="left" src="https://profile-counter.glitch.me/theyodel/count.svg" />
