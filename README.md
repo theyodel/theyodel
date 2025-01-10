@@ -20,7 +20,7 @@ class yodel:
 <br />
 
 > ### 🔗 Socials
-&nbsp;&nbsp; | 🐻 [Telegram](https://theyodel.t.me/) | 🐴 [YouTube](https://www.youtube.com/@theyodel) |
+&nbsp;  |  ✈️  [Telegram](https://theyodel.t.me/)  |  📼  [YouTube](https://www.youtube.com/@theyodel)  |  [ 🎮 ] steam
 
 > ### 🔥 My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theyodel&show_icons=true&theme=aura)](https://github.com/theyodel)
