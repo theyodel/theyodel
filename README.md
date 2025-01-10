@@ -16,15 +16,7 @@ class yodel:
 ```
 
 ### ✨ My Skills
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub)&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a033ff&duration=3500&lines=js,;python,;html-css,;react.js,)](https://git.io/typing-svg)
 
 ### 🔗 Contact With Me
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&link=https://discordapp.com/users/1087504544713424926)](https://discordapp.com/users/1087504544713424926)&nbsp;
