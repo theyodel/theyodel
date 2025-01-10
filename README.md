@@ -3,7 +3,7 @@
 Hello people, I'm just a beginner web developer! <br />
 I live in Russia 🇷🇺 and have a good knowledge of Python, JavaScript and TypeScript
 
-```py
+```PY
 class yodel:
     name: str = "Arsenii"
     age: int = 17
@@ -20,7 +20,9 @@ class yodel:
 <br />
 
 > ### 🔗 Socials
+```PY
 
+```
 
 > ### 🔥 My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theyodel&show_icons=true&theme=aura)](https://github.com/theyodel)
