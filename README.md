@@ -16,7 +16,7 @@ class yodel:
 ```
 
 ### ✨ My Skills
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a033ff&duration=3500&lines=js,;python,;html-css,;react.js,)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a033ff&duration=4000&lines=js,;python,;html-css,;react.js,)](https://git.io/typing-svg)
 
 ### 🔗 Contact With Me
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&link=https://discordapp.com/users/1087504544713424926)](https://discordapp.com/users/1087504544713424926)&nbsp;
