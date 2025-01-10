@@ -5,7 +5,6 @@ I live in Russia 🇷🇺 and have a good knowledge of Python, JavaScript and Ty
 
 ```py
 class yodel:
-    """Who am i?"""
     name: str = "Arsenii"
     age: int = 16
     profession: str = "Student"
