@@ -30,6 +30,5 @@ class yodel:
 # 🥱 Discord Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping)](https://discord.com/users/1087504544713424926)
 
-<p>&nbsp;Visitors</p>
- <br>
+<p>👀&nbsp;Visitors</p>
 <img align="left" src="https://profile-counter.glitch.me/theyodel/count.svg" />
