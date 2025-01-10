@@ -6,12 +6,10 @@ I live in Russia 🇷🇺 and have a good knowledge of Python, JavaScript and Ty
 ```py
 class yodel:
     name: str = "Arsenii"
-    age: int = 16
+    age: int = 17
     profession: str = "Student"
     country: str = "Russia"
     hobby: str = "Web Development && Gaming"
-    grade: str = "None"
-
 ```
 
 ### ✨ My Skills
