@@ -29,7 +29,7 @@ class yodel:
 
 <h3 align="center">🥱 Discord Activity</h3>
 <p align="center">
- <img src="https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping)](https://discord.com/users/1087504544713424926" />
+    <img src="https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping" />
 </p>
 
 <br />
