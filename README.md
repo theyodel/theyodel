@@ -1,7 +1,7 @@
-# Hi! I'm **yodel**
-
-Hello people, I'm just a beginner web developer! <br />
-I live in Russia 🇷🇺 and have a good knowledge of Python, JavaScript and TypeScript
+<p align='center'>
+    <!-- https://github.com/DenverCoder1/readme-typing-svg -->
+    <img width="800" src="https://readme-typing-svg.demolab.com?color=a033ff&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;ようこそ+へ+私の+GitHubの+プロフィール+ページ！;Приветствую+в+своём+профиле+GitHub!;Bienvenido+a+mi+GitHub+perfil+página!;Willkommen+auf+meiner+GitHub+Profil+Seite!;Καλώς+ήρθατε+στο+μου+GitHub+προφίλ+σελίδα!" />
+</p>
 
 ```PY
 class yodel:
@@ -11,26 +11,30 @@ class yodel:
     country: str = "Russia"
     hobby: str = "Web Development && Gaming"
 ```
+<br />
+
+<p align="center">
+     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=theyodel&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
 
 <br />
 
-> ### ✨ My Skills
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=a033ff&duration=4000&lines=js,;python,;html-css,;react.js,)](https://git.io/typing-svg)
+<h3 align="center">🔗 Socials</h3>
+<p align="center">
+✈️ &nbsp; <a href='https://theyodel.t.me/'>Telegram</a> &nbsp; | &nbsp; 📼 &nbsp; <a href="https://www.youtube.com/@theyodel">YouTube</a> &nbsp; | &nbsp; 🎮 &nbsp; <a href="https://steamcommunity.com/id/theyodel">Steam</a>
+</p>
 
 <br />
 
-> ### 🔗 Socials
-&nbsp;  | &nbsp; ✈️ &nbsp; [Telegram](https://theyodel.t.me/) &nbsp; | &nbsp; 📼 &nbsp; [YouTube](https://www.youtube.com/@theyodel) &nbsp; | &nbsp; 🎮 &nbsp; [steam]()
-
-> ### 🔥 My Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=theyodel&show_icons=true&theme=aura)](https://github.com/theyodel)
-
-<br />
-
-> ### 🥱 Discord Activity
-[![Discord Presence](https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping)](https://discord.com/users/1087504544713424926)
+<h3 align="center">🥱 Discord Activity</h3>
+<p align="center">
+ <img src="https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping)](https://discord.com/users/1087504544713424926" />
+</p>
 
 <br />
 
-> <p>👀&nbsp;Visitors</p>
-<img align="left" src="https://profile-counter.glitch.me/theyodel/count.svg" />
+<h3 align="center">👀&nbsp;Visitors</h3>
+<p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/theyodel/count.svg" />
+</p>
