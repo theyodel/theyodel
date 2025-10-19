@@ -22,7 +22,7 @@ class yodel:
 
 <h3 align="center">🔗 Socials</h3>
 <p align="center">
-✈️ &nbsp; <a href='https://theyodel.t.me/'>Telegram</a> &nbsp; | &nbsp; 📼 &nbsp; <a href="https://www.youtube.com/@theyodel">YouTube</a> &nbsp; | &nbsp; 🎮 &nbsp; <a href="https://steamcommunity.com/id/theyodel">Steam</a>
+✈️ &nbsp; <a href='https://theyodel.t.me/'>Telegram</a> &nbsp; | &nbsp; 📼 &nbsp; <a href="https://www.youtube.com/@theyodel">YouTube</a> &nbsp; | &nbsp; 🎮 &nbsp; <a href="https://steamcommunity.com/id/theyodel">Steam</a> &nbsp; | &nbsp; 🌐 <a href="https://theyodel.github.io/">Website</a>
 </p>
 
 <br />
