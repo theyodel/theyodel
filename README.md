@@ -3,13 +3,16 @@
     <img width="800" src="https://readme-typing-svg.demolab.com?color=81d8d0&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;ようこそ+へ+私の+GitHubの+プロフィール+ページ！;Приветствую+в+своём+профиле+GitHub!;Bienvenido+a+mi+GitHub+perfil+página!;Willkommen+auf+meiner+GitHub+Profil+Seite!;Καλώς+ήρθατε+στο+μου+GitHub+προφίλ+σελίδα!" />
 </p>
 
-```PY
-class yodel:
-    name: str = "Arsenii"
-    age: int = 17
-    profession: str = "Student"
-    country: str = "Russia"
-    hobby: str = "Web Development && Gaming"
+```CPP
+struct yodel {
+    int age = 17;
+    string name = "Arsenii";
+    string profession = "Student";
+    int course = 1;
+    string university = "Sevastopol State University";
+    string country = "Russia";
+    string hobby = "Web && Software development + Games";
+};
 ```
 <br />
 
