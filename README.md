@@ -5,7 +5,7 @@
 
 ```CPP
 struct yodel {
-    int age = 17;
+    int age = 18;
     string name = "Arsenii";
     string profession = "Student";
     int course = 1;
