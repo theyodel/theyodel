@@ -36,8 +36,3 @@ struct yodel {
 </p>
 
 <br />
-
-<h3 align="center">👀&nbsp;Top Langs</h3>
-<p align="center">
-    [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=pie)](https://github.com/theyodel)
-</p>
