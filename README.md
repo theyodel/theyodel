@@ -39,5 +39,5 @@ struct yodel {
 
 <h3 align="center">👀&nbsp;Top Langs</h3>
 <p align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=compact)](https://github.com/theyodel/)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel)](https://github.com/anuraghazra/github-readme-stats)
 </p>
