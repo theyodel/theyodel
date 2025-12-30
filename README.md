@@ -37,7 +37,7 @@ struct yodel {
 
 <br />
 
-<h3 align="center">👀&nbsp;Visitors</h3>
+<h3 align="center">👀&nbsp;Top Langs</h3>
 <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/theyodel/count.svg" />
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyodel&layout=compact)](https://github.com/theyodel/)
 </p>
