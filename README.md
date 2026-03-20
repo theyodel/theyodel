@@ -30,9 +30,8 @@ struct yodel {
 
 <br />
 
-<h3 align="center">🥱 Discord Activity</h3>
-<p align="center">
-    <img src="https://lanyard.cnrad.dev/api/1087504544713424926?idleMessage=Sleeping" />
-</p>
+<h3 align="center">🥱 My Stats && Activity</h3>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br />
