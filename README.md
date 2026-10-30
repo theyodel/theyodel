@@ -8,7 +8,7 @@ struct yodel {
     int age = 18;
     string name = "Arsenii";
     string profession = "Student";
-    int course = 1;
+    int course = 2;
     string university = "Sevastopol State University";
     string country = "Russia";
     string hobby = "Web && Software development + Games";
